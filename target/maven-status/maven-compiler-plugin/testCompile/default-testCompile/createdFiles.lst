@@ -1,0 +1,6 @@
+dev/snowdrop/example/LocalTest.class
+dev/snowdrop/example/AbstractExampleApplicationTest.class
+dev/snowdrop/example/UnmanagedKubernetesIT.class
+dev/snowdrop/example/ManagedKubernetesIT.class
+dev/snowdrop/example/UnmanagedOpenShiftIT.class
+dev/snowdrop/example/ManagedOpenShiftIT.class

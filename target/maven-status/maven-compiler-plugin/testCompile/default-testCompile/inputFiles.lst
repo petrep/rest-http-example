@@ -1,0 +1,6 @@
+/home/peter/Documents/munka/mvm/openshift_git_projects/rest-http-example/src/test/java/dev/snowdrop/example/AbstractExampleApplicationTest.java
+/home/peter/Documents/munka/mvm/openshift_git_projects/rest-http-example/src/test/java/dev/snowdrop/example/ManagedOpenShiftIT.java
+/home/peter/Documents/munka/mvm/openshift_git_projects/rest-http-example/src/test/java/dev/snowdrop/example/UnmanagedKubernetesIT.java
+/home/peter/Documents/munka/mvm/openshift_git_projects/rest-http-example/src/test/java/dev/snowdrop/example/ManagedKubernetesIT.java
+/home/peter/Documents/munka/mvm/openshift_git_projects/rest-http-example/src/test/java/dev/snowdrop/example/LocalTest.java
+/home/peter/Documents/munka/mvm/openshift_git_projects/rest-http-example/src/test/java/dev/snowdrop/example/UnmanagedOpenShiftIT.java
